@@ -13,9 +13,8 @@ we are trying to build an Angular6 application similar to https://websocket.org/
 * Open web browser http://localhost:4200/
 
 ## Recording
-Please refer to the recorded demo available here (websocket_demo) for a brief introduction of the functionality
+Please refer to the recorded demo available here (websocket_demo.mp4) for a brief introduction of the functionality.
 
-## Contact
-pradip.interra@gmail.com
+
 
 
